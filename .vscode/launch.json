@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BonBonCustomer",
+            "request": "launch",
+            "mainClass": "BonBonCustomer"
+        }
+    ]
+}
